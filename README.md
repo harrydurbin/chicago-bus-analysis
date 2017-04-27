@@ -7,4 +7,3 @@ https://chicago-bus-routes.herokuapp.com/chibus.html <br/>
 
 ![alttag](https://github.com/harrydurbin/chicago-bus-analysis/blob/master/img/db_schema.jpg)
 
-![alttag](https://github.com/harrydurbin/chicago-bus-analysis/blob/master/img/bus_stop_map.jpg)
