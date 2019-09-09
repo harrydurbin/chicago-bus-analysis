@@ -5,7 +5,7 @@ Interactive Maps indicating the busiest bus stops and longest bus routes were cr
 <br>
 Links: 
 <ul>
-<li><a href="https://github.com/harrydurbin/chicago-bus-analysis/blob/master/chicago_bus.ipynb">iPython Notebooke code</a></li>
+<li><a href="https://github.com/harrydurbin/chicago-bus-analysis/blob/master/chicago_bus.ipynb">iPython Notebook code</a></li>
 <li><a href="https://chicago-bus.herokuapp.com/map-routes">Interactive map of longest bus routes</a></li>
 <li><a href="https://chicago-bus.herokuapp.com/map-stops">Interactive map of busiest bus stops</a></li>
 </ul>
@@ -13,7 +13,7 @@ Links:
 Figure 1: Database schema design
 <img src="../master/img/db_schema.jpg?raw=true" width="100%"/>
 <br>
-Figure 2: Busiest Bus Stops (number of routes associated with each stop)
+Figure 2: Screenshot of Busiest Bus Stops Map (number of routes associated with each stop)
 <img src="../master/img/bus_stop_map.jpg?raw=true" width="100%"/><br>
 <br>
 
